@@ -1,0 +1,17 @@
+best_model:
+  model_path: /home/mpokket/Documents/personal_data/project/HousePricePrediction/HousePricePrediction/artifact/model_trainer/2023-04-03-23-02-27/trained_model/model.pkl
+history:
+  2023-04-02-22-15-18:
+    model_path: /home/mpokket/Documents/personal_data/project/HousePricePrediction/HousePricePrediction/artifact/model_trainer/2023-04-02-16-09-58/trained_model/model.pkl
+  2023-04-02-22-24-52:
+    model_path: /home/mpokket/Documents/personal_data/project/HousePricePrediction/HousePricePrediction/artifact/model_trainer/2023-04-02-22-15-18/trained_model/model.pkl
+  2023-04-02-22-33-43:
+    model_path: /home/mpokket/Documents/personal_data/project/HousePricePrediction/HousePricePrediction/artifact/model_trainer/2023-04-02-22-24-52/trained_model/model.pkl
+  2023-04-02-22-34-45:
+    model_path: /home/mpokket/Documents/personal_data/project/HousePricePrediction/HousePricePrediction/artifact/model_trainer/2023-04-02-22-33-43/trained_model/model.pkl
+  2023-04-02-22-39-01:
+    model_path: /home/mpokket/Documents/personal_data/project/HousePricePrediction/HousePricePrediction/artifact/model_trainer/2023-04-02-22-34-45/trained_model/model.pkl
+  2023-04-03-22-59-52:
+    model_path: /home/mpokket/Documents/personal_data/project/HousePricePrediction/HousePricePrediction/artifact/model_trainer/2023-04-02-22-39-01/trained_model/model.pkl
+  2023-04-03-23-02-27:
+    model_path: /home/mpokket/Documents/personal_data/project/HousePricePrediction/HousePricePrediction/artifact/model_trainer/2023-04-03-22-59-52/trained_model/model.pkl
